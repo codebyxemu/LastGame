@@ -1,0 +1,9 @@
+name: LastGame
+version: ${project.version}
+main: me.xemu.lastgame.LastGame
+api-version: 1.16
+authors: [Xemu]
+description: a open-source project i do
+
+commands:
+  last:
